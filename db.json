@@ -1,0 +1,144 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Tech Conference 2025",
+      "dateTime": "2025-02-15T09:00:00",
+      "venue": "Grand Hall, Tech Park",
+      "description": "An annual conference featuring the latest trends in technology and innovation."
+    },
+    {
+      "id": 2,
+      "name": "Music Festival",
+      "dateTime": "2025-03-01T12:00:00",
+      "venue": "City Stadium",
+      "description": "A celebration of music with performances from top artists across the globe."
+    },
+    {
+      "id": 3,
+      "name": "Art Exhibition",
+      "dateTime": "2025-04-10T10:00:00",
+      "venue": "Gallery 52",
+      "description": "An exhibition showcasing contemporary works from emerging artists."
+    },
+    {
+      "id": 4,
+      "name": "Food Truck Festival",
+      "dateTime": "2025-05-20T11:00:00",
+      "venue": "Riverside Park",
+      "description": "A culinary event featuring a variety of food trucks offering international cuisines."
+    },
+    {
+      "id": 5,
+      "name": "Fashion Week 2025",
+      "dateTime": "2025-06-15T18:00:00",
+      "venue": "Fashion Plaza",
+      "description": "A week-long event showcasing the latest trends in fashion and design."
+    },
+    {
+      "id": 6,
+      "name": "Innovation Summit",
+      "dateTime": "2025-07-05T09:30:00",
+      "venue": "Convention Center",
+      "description": "A gathering of leaders and innovators in various fields of technology and science."
+    },
+    {
+      "id": 7,
+      "name": "Film Premiere Night",
+      "dateTime": "2025-08-12T19:00:00",
+      "venue": "Cineplex Theater",
+      "description": "A special screening of a highly anticipated film before its official release."
+    },
+    {
+      "id": 8,
+      "name": "Book Fair 2025",
+      "dateTime": "2025-09-10T10:00:00",
+      "venue": "Exhibition Hall, City Center",
+      "description": "An event for book lovers to explore new releases, meet authors, and attend workshops."
+    },
+    {
+      "id": 9,
+      "name": "Startup Expo",
+      "dateTime": "2025-10-01T08:30:00",
+      "venue": "Startup Hub",
+      "description": "A showcase of the most promising startups and innovative products in various industries."
+    },
+    {
+      "id": 10,
+      "name": "Charity Gala 2025",
+      "dateTime": "2025-11-14T20:00:00",
+      "venue": "Grand Ballroom, Royal Hotel",
+      "description": "A formal gala to raise funds for local charitable organizations."
+    },
+    {
+      "id": 11,
+      "name": "Comedy Night",
+      "dateTime": "2025-12-05T19:30:00",
+      "venue": "Comedy Club Downtown",
+      "description": "A night filled with laughter featuring top stand-up comedians."
+    },
+    {
+      "id": 12,
+      "name": "Sports Tournament",
+      "dateTime": "2025-01-12T10:00:00",
+      "venue": "Sports Complex Arena",
+      "description": "A competitive sports event featuring local and international athletes."
+    },
+    {
+      "id": 13,
+      "name": "Yoga Retreat",
+      "dateTime": "2025-02-25T07:00:00",
+      "venue": "Mountain Retreat Center",
+      "description": "A weekend retreat focusing on mindfulness, yoga, and wellness."
+    },
+    {
+      "id": 14,
+      "name": "Film Festival",
+      "dateTime": "2025-03-15T10:00:00",
+      "venue": "Cultural Center",
+      "description": "A celebration of independent and international films with screenings and discussions."
+    },
+    {
+      "id": 15,
+      "name": "Food & Wine Tasting",
+      "dateTime": "2025-04-05T18:00:00",
+      "venue": "Vineyard Estate",
+      "description": "An evening of gourmet food paired with exceptional wines from local wineries."
+    },
+    {
+      "id": 16,
+      "name": "Eco Summit",
+      "dateTime": "2025-05-10T08:30:00",
+      "venue": "Green Conference Hall",
+      "description": "A summit focused on sustainable practices and environmental protection."
+    },
+    {
+      "id": 17,
+      "name": "Dance Show Extravaganza",
+      "dateTime": "2025-06-18T20:00:00",
+      "venue": "Royal Theater",
+      "description": "An unforgettable performance featuring a variety of dance styles from around the world."
+    },
+    {
+      "id": 18,
+      "name": "Wedding Expo",
+      "dateTime": "2025-07-30T10:00:00",
+      "venue": "Bridal Fairgrounds",
+      "description": "An event for soon-to-be-married couples to explore wedding vendors and services."
+    },
+    {
+      "id": 19,
+      "name": "Holiday Market",
+      "dateTime": "2025-11-20T12:00:00",
+      "venue": "City Square",
+      "description": "A festive market offering unique gifts, food, and holiday decorations."
+    },
+    {
+      "id": 20,
+      "name": "New Year's Eve Party",
+      "dateTime": "2025-12-31T22:00:00",
+      "venue": "Skyline Lounge",
+      "description": "A glamorous party to ring in the new year with music, dancing, and fireworks."
+    }
+  ]
+}
